@@ -4,16 +4,17 @@ Copy of Sonoyuncu launcher
 
 Son oyuncu # CrafRise Launhcer Kopyası 
 
-1-) C# Kurun
+# About The Project | Proje Hakkında
 
+*English:*
 
-2-) SLN uzantılı dosyayı çalıştırın
+## Son Oyuncu is a similar version of the Launcher used on CraftRise Türkiye's Minecraft servers.
+## It's open source and you can use it however you like.
 
+*Turkish:*
 
-3-) resolution ayarlarınızı yapın
-
-
-4-) işleminiz bu kadar istediğiniz değişiklikleri yapabilirsiniz.
+## Son Oyuncu, CraftRise Türkiye Minecraft sunucularında kullanılan Launcher'ın benzer bir sürümüdür.
+## Açık kaynaklıdır ve istediğiniz gibi kullanabilirsiniz.
 
 
 
