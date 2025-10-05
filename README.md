@@ -2,14 +2,12 @@
 # About The Project | Proje Hakkında
 
 *English:*
-
-### Son Oyuncu is a similar version of the Launcher used on CraftRise Türkiye's Minecraft servers.
-### It's open source and you can use it however you like.
+#### Son Oyuncu is a similar version of the Launcher used on CraftRise Türkiye's Minecraft servers.
+#### It's open source and you can use it however you like.
 
 *Turkish:*
-
 ####  Son Oyuncu, CraftRise Türkiye Minecraft sunucularında kullanılan Launcher'ın benzer bir sürümüdür.
-#### Açık kaynaklıdır ve istediğiniz gibi kullanabilirsiniz.
+####  Açık kaynaklıdır ve istediğiniz gibi kullanabilirsiniz.
 
 
 
